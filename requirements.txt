@@ -1,0 +1,4 @@
+smatplotlib
+pandas
+numpy
+kagglehub[pandas-datasets]
