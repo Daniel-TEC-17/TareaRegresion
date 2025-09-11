@@ -1,0 +1,7 @@
+smatplotlib
+pandas
+numpy
+kagglehub[pandas-datasets]
+pandas
+numpy
+seaborn
